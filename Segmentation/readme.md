@@ -1,4 +1,4 @@
-# segmentation
+# Segmentation
 
 ## Travail:
 > * Appliquer plusieurs algorithmes de bruitage sur une image de votre choix
